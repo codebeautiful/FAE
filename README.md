@@ -12,3 +12,9 @@
 [Wi-Fi产品对接流程](https://github.com/xiaojiangIoT/FAE/issues/3)
 
 [BLE产品对接流程](https://github.com/xiaojiangIoT/FAE/issues/4)
+
+--- 
+
+[常见问题](https://github.com/xiaojiangIoT/FAE/issues)
+
+如有疑问或建议请通过[issues](https://github.com/xiaojiangIoT/FAE/issues)反馈，我们会及时处理，谢谢！
