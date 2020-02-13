@@ -13,6 +13,8 @@
 
 [BLE产品对接流程](https://github.com/xiaojiangIoT/FAE/issues/4)
 
+小匠串口调试工具
+
 --- 
 
 [常见问题](https://github.com/xiaojiangIoT/FAE/issues)
