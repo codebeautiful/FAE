@@ -5,4 +5,4 @@
 
 [Wi-Fi产品对接流程](https://github.com/xiaojiangIoT/FAE/issues/3)
 
-[蓝牙产品对接流程](https://github.com/xiaojiangIoT/FAE/issues/4)
+[BLE产品对接流程](https://github.com/xiaojiangIoT/FAE/issues/4)
