@@ -1,12 +1,14 @@
 # FAE
 
-### 小匠IoT接入
+### 小匠串口协议接入接入
 
 [小匠串口通讯协议_v2.2.1](https://github.com/xiaojiangIoT/FAE/blob/master/%E5%B0%8F%E5%8C%A0%E4%B8%B2%E5%8F%A3%E9%80%9A%E8%AE%AF%E5%8D%8F%E8%AE%AE_v2.2.1.md)   
 
-### 小米IoT接入
+### 米家接入
 
-#### todo
+[小米通用模组串口协议（Wi-Fi）](https://github.com/xiaojiangIoT/FAE/blob/master/%E5%B0%8F%E7%B1%B3%E9%80%9A%E7%94%A8%E6%A8%A1%E7%BB%84%E4%B8%B2%E5%8F%A3%E5%8D%8F%E8%AE%AE%EF%BC%88Wi-Fi%EF%BC%89.md)
+
+### todo
 
 [Wi-Fi产品对接流程](https://github.com/xiaojiangIoT/FAE/issues/3)
 
@@ -15,6 +17,7 @@
 小匠串口调试工具
 
 --- 
+### 反馈与建议
 
 [常见问题](https://github.com/xiaojiangIoT/FAE/issues)
 
@@ -22,7 +25,7 @@
 
 ---
 
-# 公司简介
+### 公司简介
 
 小匠物联是一家专注智能硬件的连接和数据服务的高新技术企业，集智能家电操作系统和家电数据云平台建设的新型科技公司，即一站式智能家电解决方案提供商。
  
