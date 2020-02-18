@@ -51,9 +51,9 @@ MIIO芯片提供一套可读的串口文本命令，供外部芯片调用，一�
   
   ↓xiaomi.dev.v1
   
-  **↑model xiaomi.prod.v2**
+  ↑model xiaomi.prod.v2
   
-  **↓ok**
+  ↓ok
   
   ↑model
   
@@ -77,9 +77,9 @@ MIIO芯片提供一套可读的串口文本命令，供外部芯片调用，一�
 - 举例：
 
   ```
-  **↑mcu_version 0001**
+  ↑mcu_version 0001
   
-  **↓ok**
+  ↓ok
   
   ↑mcu_version A001
   
@@ -163,7 +163,9 @@ MIIO芯片提供一套可读的串口文本命令，供外部芯片调用，一�
 
   ↑result 2 1 0
 
-  ↓ok ↑get_down
+  ↓ok 
+
+  ↑get_down
 
   ↓down get_properties 2 1 
 
@@ -174,7 +176,7 @@ MIIO芯片提供一套可读的串口文本命令，供外部芯片调用，一�
   ↑get_down
 
   ↓down action 2 1
-
+  
   ↑result 2 1 0
   
   ↓ok
@@ -478,3 +480,4 @@ MIIO芯片提供一套可读的串口文本命令，供外部芯片调用，一�
 | -4005 | 属性 value错误               |
 | -4006 | 方法in参数错误               |
 | -4007 | did错误                      |
+
