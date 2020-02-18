@@ -102,7 +102,7 @@
 
   ↓error
 
-**双模模组初始化配置，除了设置**model**和固件版本号外，还需通过**ble**串口指令配置**pid**。**
+**双模模组初始化配置，除了设置model和mcu_version外，还需通过ble串口指令配置pid。**
 
 #### ble_config
 
