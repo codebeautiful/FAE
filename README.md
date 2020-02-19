@@ -6,7 +6,12 @@
 
 ### 米家接入
 
+**标准协议（spec）**
+
 [小米Wi-Fi通用模组标准（spec）协议开发指南.md](https://github.com/xiaojiangIoT/FAE/blob/master/小米Wi-Fi通用模组标准（spec）协议开发指南.md)
+
+
+**透传协议**
 
 [小米Wi-Fi通用模组透传协议开发指南.md](https://github.com/xiaojiangIoT/FAE/blob/master/小米Wi-Fi通用模组透传协议开发指南.md)
 
@@ -17,6 +22,8 @@
 [BLE产品对接流程](https://github.com/xiaojiangIoT/FAE/issues/4)
 
 小匠串口调试工具
+
+标准协议开发实例
 
 ---
 ### 反馈与建议
